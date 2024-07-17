@@ -3,7 +3,7 @@ It has several pages connected together to look like a website. Those pages are:
 
 **Home  Shop  Blog  About  Contact**
                                                                 
-                                                                  _Description of Each Page_
+                                             _Description of Each Page_
 
 **Home Page**
 
@@ -24,7 +24,7 @@ The About Page displays the details of the company to give user a assurity that 
 
 The Contact Page displays the details of the address of the company and contact number for a user to get in touch with the company. It displays a map with the help of this map user can easily find the location of the company. It also contains a feedback section for a user to give his/her feedback of the website.
 
-                                                                   _Technologies Used_
+                                                    _Technologies Used_
 
 **HTML(Hyper Text Markup Language)**
 
